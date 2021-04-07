@@ -1,0 +1,9 @@
+--format best
+--audio-format best
+--write-thumbnail
+--continue
+
+--batch-file list
+--write-description
+--write-info-json
+--ignore-errors
